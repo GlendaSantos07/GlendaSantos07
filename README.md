@@ -29,4 +29,4 @@ Possuo experiência em infraestrutura de servidores em Data Center, logica de pr
       src="https://github.com/devicons/devicon/blob/v2.15.1/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
    
 
-![Snake animation](https://github.com/GlenaSantos07/GlendaSantos07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/glendasantos07/glendasantos07/blob/output/github-contribution-grid-snake.svg)
