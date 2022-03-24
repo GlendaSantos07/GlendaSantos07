@@ -11,23 +11,21 @@ Computer Scientist at <a href="https://www.uninove.br/" rel="nofollow">Universid
 
 
 
-## About me
- <a target="_blank" rel="noopener noreferrer" href="glendasantos07/images/girlpixel.jpg"><img align="right" src="glendasantos07/images/girlpixel.jpg" width="180" style="max-width: 100%;"></a>
+## Sobre mim...
  
+Aspirante em tecnologia, sempre buscando aprender cada vez mais sobre esse multiverso.
+Possuo experiência em infraestrutura de servidores em Data Center, logica de programação, conhecimento com Java, PHP Web Server, HTML e CSS. 
+ 
+ Apaixonada por programação quero contribuir para o projeto e desenvolvimento de outros. Todo conhecimento deve ser compartilhado 
+
  
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img
+     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" width="40" height="40"/> <img
+     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" width="40" height="40"/> <img
+     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redhat/redhat-original-wordmark.svg" width="40" height="40"/> <img
+      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/salesforce/salesforce-original.svg" width="40" height="40"/>
    
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ![Snake animation](https://github.com/GlenaSantos07/GlendaSantos07/blob/output/github-contribution-grid-snake.svg)
