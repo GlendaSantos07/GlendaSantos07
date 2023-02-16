@@ -4,7 +4,7 @@
 
 <p align="center" dir="auto">
 Computer Scientist at <a href="https://www.uninove.br/" rel="nofollow">Universidade Nove de Julho<br></a>
-  Internship at GE Healthcare
+
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
